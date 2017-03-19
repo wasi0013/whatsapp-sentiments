@@ -1,7 +1,7 @@
 # Whatsapp Sentiments Visualizer 
 Visualization of chat sentiments from a whatsapp chat backup (16k Messages).
 
-![Chat](whatsapp-sentiment/plot.png?raw=true "Plot of 16k messages from a chat")  
+![Chat](/plot.png?raw=true "Plot of 16k messages from a chat")  
 
 # Dependencies:  
  * [textblob](http://textblob.readthedocs.io/en/dev/index.html)
