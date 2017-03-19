@@ -1,7 +1,7 @@
-# Whatsapp Sentiments Visualizer 
+# Whatsapp Chat Sentiments Visualizer 
 Visualization of chat sentiments from a whatsapp chat backup (16k Messages).
 
-![Chat](whatsapp-sentiment/plot.png?raw=true "Plot of 16k messages from a chat")  
+![Chat](/plot.png?raw=true "Plot of 16k messages from a chat")  
 
 # Dependencies:  
  * [textblob](http://textblob.readthedocs.io/en/dev/index.html)
@@ -13,6 +13,6 @@ Visualization of chat sentiments from a whatsapp chat backup (16k Messages).
 
 # Run:
 
-* copy your whatsapp chat text in chat_sample.txt
+* copy your whatsapp chat texts in chat_sample.txt (backup chats via email to get the txt file)
 * set usernames (`user1` & `user2` in the `whatsapp-sentiment.py` file)  
 * `python whatsapp-sentiment.py`
